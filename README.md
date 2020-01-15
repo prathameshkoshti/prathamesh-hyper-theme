@@ -4,7 +4,9 @@ a theme for hyper console
 
 ---
 
-I created this theme just for fun.
+![alt text][screenshot]
+
+[screenshot]: https://github.com/prathameshkoshti/prathamesh-hyper-theme/raw/master/Screenshot%20-%20Prathamesh's%20hyper%20theme.png "Screenshot"
 
 ### Installing
 
@@ -20,13 +22,6 @@ I created this theme just for fun.
 ### Font Family
 
 I'm using Fira Code for console's font.
-
-### How it looks?
-
-Take allok at the console
-![alt text][screenshot]
-
-[screenshot]: https://github.com/prathameshkoshti/prathamesh-hyper-theme/raw/master/Screenshot%20-%20Prathamesh's%20hyper%20theme.png "Screenshot"
 
 ### Want to know how I'm using those ligatures for my git repos!
 
