@@ -17,13 +17,17 @@ a theme for hyper console
 
 3.  And that's it!
 
-## Font Family
+## FAQs
+
+#### What's the font family?
 
 I'm using Fira Code.
 
-## Want to know how I'm using those ligatures for my git repos!
+#### Want to know how I'm using those ligatures for my git repos!
 
 Go checkout my [zsh theme](https://github.com/prathameshkoshti/prathamesh-zsh-theme)
+
+---
 
 ## LICENSE
 
